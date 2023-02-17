@@ -18,15 +18,15 @@
 
 - 💬 Ask me about **Python, C#**
 
-- 📫 How to reach me **https://www.linkedin.com/in/peter-kanyi-45505b121/**
+- 📫 How to reach me <a href="https://www.linkedin.com/in/peter-kanyi-45505b121/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/peter-kanyi-45505b121/" height="30" width="40" /></a>
 
 - ⚡ Fun fact **I think I'm in love with tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@the_learner1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@the_learner1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/peter-kanyi-45505b121/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/peter-kanyi-45505b121/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/peternjorogekanyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/peternjorogekanyi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/peter-kanyi-45505b121/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/peter-kanyi-45505b121/" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/peternjorogekanyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/peternjorogekanyi" height="30" width="40" /></a>
 <a href="https://medium.com/@kanyipeter004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kanyipeter004" height="30" width="40" /></a>
 </p>
 
