@@ -20,7 +20,7 @@
 
 - 📫 How to reach me <a href="https://www.linkedin.com/in/peter-kanyi-45505b121/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/peter-kanyi-45505b121/" height="20" width="30" /></a>
 
-- ⚡ Fun fact **I think I'm in love with tech**
+- ⚡ Fun fact **Did you know that you are about 1cm taller in the morning and grows shorter as the day develops?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
