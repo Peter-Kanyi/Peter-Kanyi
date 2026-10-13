@@ -1,41 +1,118 @@
-![gif2](https://user-images.githubusercontent.com/118138496/218883727-a8ff45d9-21ef-4543-af69-c775ccd8066a.gif)
+![Profile banner](https://user-images.githubusercontent.com/118138496/218883727-a8ff45d9-21ef-4543-af69-c775ccd8066a.gif)
+
 <h1 align="center">Hi 👋, I'm Peter Kanyi</h1>
-<h3 align="center">A passionate computer science student based in Warsaw, Poland</h3>
+<h3 align="center">Mobile QA Engineer | Test Automation | Healthcare Technology</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=peter-kanyi&label=Profile%20views&color=0e75b6&style=flat" alt="peter-kanyi" /> </p>
-
-<p align="left"> <a href="https://twitter.com/@the_learner1" target="blank"><img src="https://img.shields.io/twitter/follow/@the_learner1?logo=twitter&style=for-the-badge" alt="@the_learner1" /></a> </p>
-
-- 🔭 I’m currently working on **Automation with Selenium**
-
-- 🌱 I’m currently learning **Automation and Data analytics**
-
-- 👯 I’m looking to collaborate on **Data engineering projects**
-
-- 🤝 I’m looking for help with **Automation with Selenium and C#**
-
-- 📝 I regularly write articles on <a href="https://medium.com/@kanyipeter004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kanyipeter004" height="20" width="30" /></a>
-
-- 💬 Ask me about **Python, C#**
-
-- 📫 How to reach me <a href="https://www.linkedin.com/in/peter-kanyi-45505b121/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/peter-kanyi-45505b121/" height="20" width="30" /></a>
-
-- ⚡ Fun fact **Did you know that you are about 1cm taller in the morning and grows shorter as the day develops?**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@the_learner1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@the_learner1" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/peter-kanyi-45505b121/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/peter-kanyi-45505b121/" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/peternjorogekanyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/peternjorogekanyi" height="30" width="40" /></a>
-<a href="https://medium.com/@kanyipeter004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kanyipeter004" height="30" width="40" /></a>
+<p align="center">
+  Quality Assurance Engineer based in Warsaw, Poland 🇵🇱, passionate about building reliable mobile applications, test automation, and improving software quality through technology.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=peter-kanyi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peter-kanyi&show_icons=true&locale=en&layout=compact" alt="peter-kanyi" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peter-kanyi&show_icons=true&locale=en" alt="peter-kanyi" /></p>
+### 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peter-kanyi&" alt="peter-kanyi" /></p>
+- 🔭 I’m currently working as a **Quality Assurance Mobile Engineer at mySugr / Roche Polska**.
+- 🧪 I focus on **mobile application testing, test automation, and quality engineering**.
+- 🌱 I’m currently developing my skills in **Kotlin, BDD, and mobile test automation**.
+- 🩺 I’m interested in building reliable digital healthcare solutions that make a meaningful difference in people's lives.
+- 🏦 Previously worked in software testing and automation in the **banking and financial services industry at Citi**.
+- 💡 I enjoy exploring ideas at the intersection of **software engineering, AI, data, and real-world problem-solving**.
+- 🎓 I hold an **MSc in Computer Science from Warsaw University of Technology** and a BSc in Mathematics & Computer Science.
+- 💬 Ask me about **Mobile QA, software testing, test automation, Python, Selenium, Kotlin, and BDD**.
+- 🤝 I’m open to collaborating on interesting **QA automation, developer tooling, and technology projects**.
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/peter-kanyi-45505b121/).
 
+### 💼 Professional Experience
+
+- **mySugr / Roche Polska** — Mobile Quality Assurance Engineering, mobile testing, and automation.
+- **Citi** — Software testing and automation for banking and financial systems, including AML-related applications.
+- **TechnoBrain** — Earlier experience in technology and software-related work.
+
+### 🚀 Projects
+
+- 🏡 **[Mendrah Homes](https://mendrahhomes.netlify.app/)** — A property-focused website project.
+- 🏗️ **Nairobi Projects** — A website project focused on architecture, construction, interior design, and project management.
+- 📊 **Data & Investment Tools** — Exploring financial modelling, investment comparisons, and data-driven decision-making.
+
+### 🛠️ Languages and Tools
+
+**Mobile QA & Test Automation**
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/appium/appium-original.svg" alt="Appium" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+</p>
+
+**Development, Data & Infrastructure**
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Microsoft Azure" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
+</p>
+
+**Testing Practices & Tools**
+
+- Manual mobile application testing
+- Test automation and regression testing
+- BDD / Gherkin
+- Test planning, test case design, and defect management
+- Jira, Zephyr, and HP ALM
+- Git-based workflows and CI/CD-aligned testing
+
+### 🏅 Certifications
+
+- ISTQB Certified Tester — Foundation Level (CTFL)
+- ISTQB Agile Tester
+- Microsoft Certified: Azure Data Fundamentals
+- Microsoft Certified: Azure Administrator Associate
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/peter-kanyi-45505b121/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/the_learner1" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://www.kaggle.com/peternjorogekanyi" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@kanyipeter004" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+  </a>
+</p>
+
+### 📈 GitHub Statistics
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=peter-kanyi&show_icons=true&locale=en" alt="Peter Kanyi's GitHub statistics" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=peter-kanyi&show_icons=true&locale=en&layout=compact" alt="Most-used languages" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peter-kanyi" alt="GitHub contribution streak" />
+</p>
+
+---
+
+<p align="center">
+  <i>Building better software through thoughtful testing, automation, and continuous learning. 🚀</i>
+</p>
